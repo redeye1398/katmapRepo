@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Katmap/static/js/main.ac76cdf0.js",
+    "main.js": "/Katmap/static/js/main.b3727bc1.js",
     "static/css/326.ae8b9bc0.chunk.css": "/Katmap/static/css/326.ae8b9bc0.chunk.css",
-    "static/js/326.b5acd134.chunk.js": "/Katmap/static/js/326.b5acd134.chunk.js",
+    "static/js/326.1119ba00.chunk.js": "/Katmap/static/js/326.1119ba00.chunk.js",
     "static/js/959.79edee66.chunk.js": "/Katmap/static/js/959.79edee66.chunk.js",
     "static/js/882.24ba53cd.chunk.js": "/Katmap/static/js/882.24ba53cd.chunk.js",
     "static/js/501.9515b8f8.chunk.js": "/Katmap/static/js/501.9515b8f8.chunk.js",
@@ -35,9 +35,9 @@
     "static/media/linkedin-brands.svg": "/Katmap/static/media/linkedin-brands.d7833fba7bdcf55514c4109c6c1eb7d0.svg",
     "static/media/facebook-square-brands.svg": "/Katmap/static/media/facebook-square-brands.38c6b4e5a1568d1aa181dd4ff5b08e05.svg",
     "static/media/waves.svg": "/Katmap/static/media/waves.311cb853ee4ac4458192f888f5433f14.svg",
-    "main.ac76cdf0.js.map": "/Katmap/static/js/main.ac76cdf0.js.map",
+    "main.b3727bc1.js.map": "/Katmap/static/js/main.b3727bc1.js.map",
     "326.ae8b9bc0.chunk.css.map": "/Katmap/static/css/326.ae8b9bc0.chunk.css.map",
-    "326.b5acd134.chunk.js.map": "/Katmap/static/js/326.b5acd134.chunk.js.map",
+    "326.1119ba00.chunk.js.map": "/Katmap/static/js/326.1119ba00.chunk.js.map",
     "959.79edee66.chunk.js.map": "/Katmap/static/js/959.79edee66.chunk.js.map",
     "882.24ba53cd.chunk.js.map": "/Katmap/static/js/882.24ba53cd.chunk.js.map",
     "501.9515b8f8.chunk.js.map": "/Katmap/static/js/501.9515b8f8.chunk.js.map",
@@ -46,6 +46,6 @@
     "862.9cba23c7.chunk.js.map": "/Katmap/static/js/862.9cba23c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ac76cdf0.js"
+    "static/js/main.b3727bc1.js"
   ]
 }
